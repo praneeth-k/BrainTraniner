@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BrainTrainer</string>
+    <string name="question">Question</string>
+    <string name="score">Score</string>
+    <string name="timer">Timer</string>
+    <string name="result">result</string>
+</resources>
